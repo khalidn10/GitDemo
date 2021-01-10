@@ -8,11 +8,19 @@ public class SeleniumTest {
 	public void seleniumTest1()
 	{
 		System.out.println("Selenium Test 1-1");
+		System.out.println("Selenium Test 2-1");
+		System.out.println("Selenium Test 3-1");
 	}
 	
 	@Test
 	public void seleniumTest2()
 	{
 		System.out.println("Selenium Test 1-2");
+	}
+	
+	@Test
+	public void seleniumTest3()
+	{
+		System.out.println("Selenium Test 1-3");
 	}
 }

@@ -17,4 +17,10 @@ public class RestApiTest {
 	{
 		System.out.println("RestApi Test 1-2");
 	}
+	
+	@Test
+	public void restApiTest3()
+	{
+		System.out.println("RestApi Test 1-3");
+	}
 }
