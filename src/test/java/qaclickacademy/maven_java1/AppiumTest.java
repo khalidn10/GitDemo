@@ -29,4 +29,10 @@ public class AppiumTest {
 	{
 		System.out.println("Appium Test 1-4");
 	}
+	
+	@Test
+	public void appiumTest5()
+	{
+		System.out.println("Appium Test 1-5");
+	}
 }

@@ -29,4 +29,10 @@ public class RestApiTest {
 	{
 		System.out.println("RestApi Test 1-4");
 	}
+	
+	@Test
+	public void restApiTest5()
+	{
+		System.out.println("RestApi Test 1-5");
+	}
 }

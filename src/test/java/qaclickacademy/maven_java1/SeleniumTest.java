@@ -35,4 +35,10 @@ public class SeleniumTest {
 	{
 		System.out.println("Selenium Test 1-5");
 	}
+	
+	@Test
+	public void seleniumTest6()
+	{
+		System.out.println("Selenium Test 1-6");
+	}
 }

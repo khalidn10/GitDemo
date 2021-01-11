@@ -9,4 +9,10 @@ public class FifthTest {
 	{
 		System.out.println("Fifth Test 1-1");
 	}
+	
+	@Test
+	public void FifthTest2()
+	{
+		System.out.println("Fifth Test 1-2");
+	}
 }
